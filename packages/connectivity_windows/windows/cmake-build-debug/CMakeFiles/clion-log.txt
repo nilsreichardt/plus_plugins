@@ -1,0 +1,14 @@
+C:\Users\Simon\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\202.6948.80\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\Simon\Git\plus\connectivity_plus\connectivity_windows\windows
+-- The CXX compiler identification is GNU 7.1.0
+-- Check for working CXX compiler: C:/mingw64/mingw64/bin/g++.exe
+-- Check for working CXX compiler: C:/mingw64/mingw64/bin/g++.exe - works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+CMake Error at CMakeLists.txt:10 (apply_standard_settings):
+  Unknown CMake command "apply_standard_settings".
+
+
+-- Configuring incomplete, errors occurred!
+See also "C:/Users/Simon/Git/plus/connectivity_plus/connectivity_windows/windows/cmake-build-debug/CMakeFiles/CMakeOutput.log".

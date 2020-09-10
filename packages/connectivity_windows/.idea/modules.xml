@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/connectivity_windows.iml" filepath="$PROJECT_DIR$/connectivity_windows.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/connectivity_windows_android.iml" filepath="$PROJECT_DIR$/android/connectivity_windows_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example/android/connectivity_windows_example_android.iml" filepath="$PROJECT_DIR$/example/android/connectivity_windows_example_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../connectivity/example/example.iml" filepath="$PROJECT_DIR$/../connectivity/example/example.iml" />
+    </modules>
+  </component>
+</project>
